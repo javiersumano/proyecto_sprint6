@@ -11,3 +11,7 @@ Esta aplicación web utiliza Streamlit para visualizar datos de vehículos en Es
 
 ## Configuración para Render
 El archivo `streamlit/config.toml` se incluye para asegurar la compatibilidad con Render al desplegar la aplicación.
+
+ ## URL RENDER 
+https://proyecto-sprint6-4.onrender.com/
+ 
